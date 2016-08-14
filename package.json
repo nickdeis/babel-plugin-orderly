@@ -1,12 +1,11 @@
 {
   "name": "babel-plugin-orderly",
   "version": "0.1.0",
-  "description": "",
   "main": "index.js",
+  "description": "Transform tagged template strings with orderly syntax into JSON schema.",
   "scripts": {
     "test": "node tests/tester.js"
   },
-  "author": "NicholasDeis",
   "license": "MIT",
   "dependencies": {
     "babel": "^6.5.2",
@@ -16,5 +15,21 @@
     "babel-cli": "^6.11.4",
     "babel-core": "^6.13.2",
     "babel-preset-es2015": "^6.13.2"
-  }
+  },
+  "author": "nickdeis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdeis/babel-plugin-orderly.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nickdeis/babel-plugin-orderly/issues"
+  },
+  "homepage": "https://github.com/nickdeis/babel-plugin-orderly#readme",
+  "keywords": [
+    "babel",
+    "plugin",
+    "babel-plugin",
+    "orderly"
+  ]
 }
