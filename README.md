@@ -62,6 +62,6 @@ I plan to make other plugins for languages that use JISON, but a stateless langu
 
 ## Thanks
 
-* @zaach, for his fantastic [JISON](https://github.com/zaach/jison) parser generator and [orderly](https://github.com/zaach/orderly.js) itself
+* [zaach](https://github.com/zaach) , for his fantastic [JISON](https://github.com/zaach/jison) parser generator and [orderly](https://github.com/zaach/orderly.js) itself
 
 
